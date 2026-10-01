@@ -19,8 +19,8 @@
 
 
 
-🔗Enlaces Del Proyecto 
+🔗Enlaces Del Proyecto:
 
-[[Archivos Drive Utilizados](https://drive.google.com/drive/folders/1WeIG_CNpuTZ5qFfh8NKv936Y5POChXEr)]
+[[Archivos Drive Utilizados](https://drive.google.com/drive/folders/19j0J2f3CF77XrHm3tfc9kLN2adv0Jauk)] 
 
 [[Sitio Netlify](
